@@ -17,4 +17,6 @@ Ajustando textos com CSS Clamp.
 
 Adicionando filtros em imagens com CSS.
 
-mobile first
+Mobile first
+
+Responsividade
