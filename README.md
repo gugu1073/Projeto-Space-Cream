@@ -16,3 +16,5 @@ Versão Desktop com CSS Grid.
 Ajustando textos com CSS Clamp.
 
 Adicionando filtros em imagens com CSS.
+
+mobile first
