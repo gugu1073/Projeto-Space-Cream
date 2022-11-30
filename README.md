@@ -1,21 +1,22 @@
 # Projeto-Space-Cream 👋 hello, welcome to my repository
 
+Another project completed, the same as the mobile-first one, however, with full responsiveness. I trained responsiveness once more, applying @media to adapt the project to desktop and others. Animation, transform, transition, colors in HSL, Variables and Clamp to adjust the texts, making the responsiveness even better.
 
-Variáveis e cores HSL no CSS.
+HSL variables and colors in CSS.
 
-Definindo largura máxima e alinhando o conteúdo.
+Setting maximum width and aligning content.
 
-Encaixando a imagem e sobrepondo o texto.
+Fitting the image and overlaying the text.
 
-Transições e transformações.
+Transitions and transformations.
 
-Animações com CSS.
+Animations with CSS.
 
-Versão Desktop com CSS Grid.
+Desktop version with CSS Grid.
 
-Ajustando textos com CSS Clamp.
+Fitting texts with CSS Clamp.
 
-Adicionando filtros em imagens com CSS.
+Adding filters to images with CSS.
 
 Mobile first
 
