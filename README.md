@@ -1,4 +1,4 @@
-# Projeto-Space-Cream 👋 hello, welcome to my repository
+# Projeto-Space-Cream 
 
 Another project completed, the same as the mobile-first one, however, with full responsiveness. I trained responsiveness once more, applying @media to adapt the project to desktop and others. Animation, transform, transition, colors in HSL, Variables and Clamp to adjust the texts, making the responsiveness even better.
 
